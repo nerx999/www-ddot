@@ -45,6 +45,7 @@
   ],
   "valid_keys": [
     "DDOT-ALPHA-TEST-001",
-    "DDOT01"
+    "DDOT01",
+    "DDOT-USER-01app"
   ]
 }
