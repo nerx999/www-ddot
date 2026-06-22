@@ -28,7 +28,7 @@ except ImportError:
 # ============================================================
 # CONFIGURATION - แก้ URL นี้ให้เป็น GitHub raw ของคุณ
 # ============================================================
-CONFIG_URL = "https://raw.githubusercontent.com/yourusername/www-ddot/main/server_config.json"
+CONFIG_URL = "https://raw.githubusercontent.com/nerx999/www-ddot/refs/heads/main/server_config.json"
 LAUNCHER_VERSION = "1.0.0"
 APP_DIR = Path(__file__).parent
 PROGRAMS_DIR = APP_DIR / "programs"
