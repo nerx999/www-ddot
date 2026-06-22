@@ -1,0 +1,50 @@
+{
+  "launcher_version": "1.0.0",
+  "maintenance": false,
+  "maintenance_message": "",
+  "programs": [
+    {
+      "id": "ddot_main",
+      "name": "www.ddot - System Utility",
+      "description": "เครื่องมือจัดการระบบ Windows ครบวงจร",
+      "version": "3.0.1",
+      "size_mb": 15.2,
+      "category": "System",
+      "icon": "⚙️",
+      "download_url": "https://github.com/yourusername/www-ddot/releases/download/v3.0.1/ddot.exe",
+      "checksum": "",
+      "required": true,
+      "changelog": "- เพิ่มระบบ Auto Update\n- ปรับปรุง UI"
+    },
+    {
+      "id": "ddot_cleaner",
+      "name": "DDot Cleaner Pro",
+      "description": "ตัวล้างไฟล์ขยะขั้นสูง",
+      "version": "1.2.0",
+      "size_mb": 5.8,
+      "category": "Utility",
+      "icon": "",
+      "download_url": "https://github.com/yourusername/www-ddot/releases/download/cleaner-v1.2.0/cleaner.exe",
+      "checksum": "",
+      "required": false,
+      "changelog": "- เพิ่ม Deep Clean\n- รองรับ Windows 11"
+    },
+    {
+      "id": "ddot_monitor",
+      "name": "DDot Process Monitor",
+      "description": "ติดตาม Process แบบ Real-time",
+      "version": "2.0.0",
+      "size_mb": 8.1,
+      "category": "Monitor",
+      "icon": "",
+      "download_url": "https://github.com/yourusername/www-ddot/releases/download/monitor-v2.0.0/monitor.exe",
+      "checksum": "",
+      "required": false,
+      "changelog": "- Real-time CPU/Memory\n- Export to CSV"
+    }
+  ],
+  "valid_keys": [
+    "DDOT-DEMO-2026-XXXX",
+    "DDOT-ALPHA-TEST-001"
+  ]
+}
